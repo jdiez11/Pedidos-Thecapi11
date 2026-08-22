@@ -1,0 +1,13 @@
+{
+  "name": "TheCapi11 · Gestión de pedidos",
+  "short_name": "TheCapi11",
+  "description": "Gestión de pedidos de camisetas",
+  "lang": "es",
+  "start_url": "./vestuario-pedidos.html",
+  "display": "standalone",
+  "background_color": "#110C0E",
+  "theme_color": "#110C0E",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
